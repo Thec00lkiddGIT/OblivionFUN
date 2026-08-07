@@ -162,6 +162,32 @@
       "versionDate": "2026-06-28T19:32:00+00:00",
       "size": 78441,
       "downloadURL": "https://files.catbox.moe/cc6rns.ipa"
+    },
+    {
+      "name": "Angry Birds 2",
+      "bundleIdentifier": "live.c00lkiddtech.ab290",
+      "developerName": "Oblivion",
+      "iconURL": "https://files.catbox.moe/64y0xt.png",
+      "localizedDescription": "Angry Birds 2 iOS port. Port by Reeyuki, ios port by c00lkiddtech.",
+      "subtitle": "ios port by c00lkiddtech",
+      "tintColor": "e11d2e",
+      "category": "games",
+      "versions": [
+        {
+          "downloadURL": "https://files.catbox.moe/gzo3k9.ipa",
+          "size": 109720569,
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-08-07T15:53:00+00:00",
+          "localizedDescription": "Angry Birds 2 iOS port. Port by Reeyuki, ios port by c00lkiddtech.",
+          "minOSVersion": "13.0"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.0",
+      "versionDate": "2026-08-07T15:53:00+00:00",
+      "size": 109720569,
+      "downloadURL": "https://files.catbox.moe/gzo3k9.ipa"
     }
   ]
 }
